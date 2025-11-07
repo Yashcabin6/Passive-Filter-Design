@@ -1,4 +1,4 @@
-# Passive-Filter-Design
+# Passive-Filter-Design (LT Spice files)
 DE1- 12-14 dB 100-120kHz        
 
 DE2- 18 dB 100Kz (this one I think is not the ideal design attached in there for reference)     
